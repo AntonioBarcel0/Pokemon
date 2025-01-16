@@ -7,7 +7,7 @@
 body{
     font-family: Arial, Helvetica, 
     sans-serif;
-    background-color: rgb(160, 241, 241);
+    background-color: rgb(172, 197, 230);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,7 +15,7 @@ body{
 }
 
 .container{
-    background-color: rgb(226, 250, 242);
+    background-color: rgb(206, 236, 226);
     padding: 40px;
     box-shadow: 0 4px 10px rgb(26, 18, 99);
     text-align: center;
